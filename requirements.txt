@@ -1,0 +1,5 @@
+
+SpeechRecognition
+pyttsx3
+PyAudio
+python -c "import speech_recognition, pyttsx3, pyaudio; print('All packages installed successfully!')"
